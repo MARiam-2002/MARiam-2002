@@ -65,7 +65,7 @@ mariamkhaled@github
   <a href="https://www.linkedin.com/in/mariam-khaled-439203290/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="https://www.facebook.com/profile.php?id=100049529231810&locale=ar_AR"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
    <a href="mailto:khaldmrym769@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-  <a href="https://api.whatsapp.com/send?phone="201101088049" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201101088049" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
 
 </p>
 <br>
@@ -73,7 +73,9 @@ mariamkhaled@github
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://media.giphy.com/media/WjW94M0OMFawh1F0Wv/giphy.gif" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+   <img src="https://media.giphy.com/media/nvb74G5HEcQhoah9Hv/giphy.gif" width="100"><br><br>
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
 </p>
 <br>
