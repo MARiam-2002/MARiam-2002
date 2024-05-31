@@ -22,7 +22,8 @@ mariamkhaled@github
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MARiam-2002&theme=monokai	)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MARiam-2002&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MARiam-2002&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MARiam-2002&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MARiam-2002&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MARiam-2002&theme=monokai&utcOffset=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MARiam-2002&theme=monokai	)](https://github.com/ryo-ma/github-profile-trophy)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MARiam-2002&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MARiam-2002&theme=monokai	)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MARiam-2002&theme=monokai	) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MARiam-2002&theme=monokai&utcOffset=8) <img src="https://github-readme-stats-five-smoky-25.vercel.app/api?username=MARiam-2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=2&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="stats graph" width="400"/>   ![]()
+
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
@@ -85,3 +86,5 @@ mariamkhaled@github
    I <span style="color:red">❤</span> Open Source. 
    <br>
 </h6>
+
+<img src="https://github-readme-stats-five-smoky-25.vercel.app/api?username=MARiam-2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=2&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" height="150" alt="stats graph"  />
