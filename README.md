@@ -116,3 +116,42 @@ mariamkhaled@github
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MARiam-2002/MARiam-2002/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MARiam-2002/MARiam-2002/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+---
+<div align="center">
+<table><tr><td valign="top" width="50%">
+
+<br>
+
+<img src="./assets/metrics.plugin.overview.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
+
+</td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.activity.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.stargazers.svg" >
+
+</td></tr></table>
+
+</details>
+
+---
+
+<img src="./assets/metrics.plugin.wakatime.svg">
+
+---
+
+<img src="./assets/metrics.plugin.achievements.svg">
+
+---
+</div>
