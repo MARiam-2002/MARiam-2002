@@ -17,7 +17,7 @@ jobs:
           filename: assets/metrics.plugin.wakatime.svg
 
           # Options
-          user: MahmoudAbuelazm
+          user: MARiam-2002
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
