@@ -16,6 +16,15 @@ mariamkhaled@github
 🚩 My interest lies in back end web development.
 ```
 - 📫 How to reach me **khaldmrym769@gmail.com**
+
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
+<p>
+  <a href="https://www.linkedin.com/in/mariam-khaled-439203290/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="https://www.facebook.com/profile.php?id=100049529231810&locale=ar_AR"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="mailto:khaldmrym769@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201101088049" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
+
+</p>
 <hr>
 <br>
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3gwYTg0YmVpcWx1azRqMG93YzNoNnE0M3RmZHp4YmRzMzhjMHAwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Imagem" width="490">
@@ -89,14 +98,7 @@ mariamkhaled@github
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
 </p>
 <br>
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
-<p>
-  <a href="https://www.linkedin.com/in/mariam-khaled-439203290/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="https://www.facebook.com/profile.php?id=100049529231810&locale=ar_AR"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
-   <a href="mailto:khaldmrym769@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-  <a href="https://api.whatsapp.com/send?phone=201101088049" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
 
-</p>
 <br>
 <br>
 <p align="center">
