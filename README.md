@@ -4,7 +4,20 @@
 
 ### Backend Developer | Node.js Specialist | Cloud Solutions
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=FF1493&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Solutions;Crafting+Robust+REST+APIs;Cloud-Native+Development)](https://github.com/MARiam-2002)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=FF1493&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Building+Scalable+Backends;RESTful+APIs;Microservices;Cloud+Solutions)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-khaled-439203290/)
+[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaldmrym769@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-FF1493?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100049529231810)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-FF1493?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201101088049)
 
 </div>
 
@@ -92,14 +105,14 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MARiam-2002&show_icons=true&count_private=true&theme=rose_pine&hide_border=true&bg_color=00000000&text_color=FF1493&title_color=FF1493&icon_color=FF1493)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MARiam-2002&show_icons=true&count_private=true&theme=rose_pine&hide_border=true&bg_color=00000000&text_color=FF1493&title_color=FF1493)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MARiam-2002&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000&text_color=FF1493&title_color=FF1493)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MARiam-2002&theme=rose-pine&hide_border=true&bg_color=00000000&color=FF1493&point=FF1493&line=FF1493" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MARiam-2002&theme=rose-pine&hide_border=true&bg_color=00000000&color=FF1493&point=FF1493&line=FF1493" alt="Contribution Graph" />
 </div>
 
 ---
@@ -129,19 +142,6 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKU21bF0T7BzleE/giphy.gif" width="100" alt="heart" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-khaled-439203290/)
-[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaldmrym769@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-FF1493?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100049529231810)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-FF1493?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201101088049)
-
 </div>
 
 ---
