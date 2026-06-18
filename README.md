@@ -23,6 +23,16 @@
 
 ---
 
+## 📄 My Resume
+
+<div align="center">
+
+[![Download CV](https://img.shields.io/badge/📥%20Download%20CV-FF1493?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1VcA_VgXWQ8ihv9Vm9EIe66UbmLvtCYRA/view?usp=sharing)
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dxn6ZPgBA5VeWr67un/giphy.gif" width="280" alt="Developer" />
 </div>
